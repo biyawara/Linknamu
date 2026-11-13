@@ -11,6 +11,7 @@ export default function ProfileHeader({ profile }: { profile: Profile }) {
           fill
           sizes="128px"
           priority
+          unoptimized
           className="object-cover"
         />
       </div>

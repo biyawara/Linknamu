@@ -14,9 +14,9 @@ export type Profile = {
 };
 
 export const profile: Profile = {
-  name: "김글로",
-  bio: "세계 최강 바이브 코더",
-  avatar: "/avatar.svg",
+  name: "김개발",
+  bio: "풀스택 개발자 | 요즘에는 AI 개발에 관심이 많아요",
+  avatar: "https://placehold.co/150x150/orange/white",
 };
 
 export const links: LinkItem[] = [
